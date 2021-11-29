@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;400;700&display=swap');
+
+body {
+  background-color: #232121;
+  color:#F0E7E7;
+}
+
+h1 {
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  font-family: 'Inter', sans-serif;
+}
+
+h6 {
+  font-size: 0.7rem;
+  font-family: 'Inter', sans-serif;
+}
+
+.main-section {
+  margin-top: 15vh;
+}
+
+.main-card {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #3D3C41;
+  border-radius: 6px;
+  background-color: black;
+  padding: 20px;
+  min-height: 300px;
+  min-width: 200px;
+  -webkit-box-shadow: 5px 6px 4px 3px rgba(0,0,0,0.25); 
+  box-shadow: 5px 6px 4px 3px rgba(0,0,0,0.25);
+}
+
+.card {
+  background-color: #141313;
+  margin-top:10px;
+  margin-bottom: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #3D3C41; 
+}
+
+.card-title {
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.balance-card {
+  background: rgb(189,123,79);
+  background: linear-gradient(180deg, rgba(189,123,79,1) 0%, rgba(149,97,63,1) 100%);
+  border-style: solid;
+  border-width: 1px;
+  border-color: #714A30;
+}
+
+.pre-title {
+  margin-top: 20px;
+  color: #6B6666;
+  font-size: 1.0rem;
+}
+
+.dash-title {
+  margin-bottom: 20px;
+  color: #6B6666;
+}
+
+p.ogtemple {
+  font-size:0.75rem;
+  margin-top:10px;
+}
